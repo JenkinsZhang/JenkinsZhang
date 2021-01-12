@@ -4,7 +4,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🌱 I’m currently learning computer science in University College Dublin
 - 📫 How to reach me: jenkinszhang1998@gmail.com
